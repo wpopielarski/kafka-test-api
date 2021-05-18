@@ -5,7 +5,7 @@
 ## build
 
 **By default *kafka-test-api* is build for Scala 2.12.13**
-* `git clone https://github.dev.global.tesco.org/BUS-DataScience/kafka-test-api.git`
+* `git clone https://github.com/wpopielarski/kafka-test-api.git`
 * `cd kafka-test-api`
 * `sbt clean package`
 * `sbt packArchive`
